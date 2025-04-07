@@ -55,6 +55,9 @@ html {
   font-size: 62.5%;
   /* hides everything overflowing in the x-axis */
   overflow-x: hidden;
+
+  /* does NOT work on all browsers */
+  /* scroll-behavior: smooth; */
 }
 
 body {
